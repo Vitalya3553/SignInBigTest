@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SignInBigTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="authorization_text">Authorization</string>
+    <string name="authorization_email_hint">Login</string>
+    <string name="authorization_password_hint">Password</string>
+    <string name="authorization_create_account">Create account</string>
+
+    <string name="registration_text">Registration</string>
+    <string name="registration_email_hint">Login</string>
+    <string name="registration_password_hint">Password</string>
+    <string name="registration_name_hint">Name</string>
+    <string name="registration_authorize_account">I have account</string>
+    <string name="registration_register_button">Register</string>
+    <string name="authorization_register_button">Authorize</string>
+    <string name="basic_logout_button">Log out</string>
+
+
+    <string name="facebook_app_id">549291863705551</string>
+    <string name="fb_login_protocol_scheme">fb549291863705551</string>
+    <string name="facebook_client_token">e783be19f179560410ca8abdf1a57505</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/services_nav_graph"
+    app:startDestination="@id/authServicesFragment">
+
+    <fragment
+        android:id="@+id/authServicesFragment"
+        android:name="com.example.signinbigtest.authorization_feature.presentation.fragment.AuthServicesFragment"
+        android:label="fragment_auth_services"
+        tools:layout="@layout/fragment_auth_services" />
+</navigation>

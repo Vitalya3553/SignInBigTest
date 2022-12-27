@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43824372501",
+    "project_id": "bigauthorizationtest",
+    "storage_bucket": "bigauthorizationtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43824372501:android:9d8fb66598d4ccb3c7271c",
+        "android_client_info": {
+          "package_name": "com.example.signinbigtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43824372501-2rhr2g5mo1djpgu7b2e1m3h6g2pfuviu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChjB5WXPGkuIXS_qmKZ6Q5wfvQleK5N98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43824372501-2rhr2g5mo1djpgu7b2e1m3h6g2pfuviu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
